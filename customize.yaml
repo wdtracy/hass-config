@@ -1,0 +1,6 @@
+sensor.dark_sky_temperature:
+    friendly_name: Current Temp
+sensor.dark_sky_daily_high_temperature:
+    friendly_name: Today's High
+sensor.yr_symbol:
+    friendly_name: Forecast
