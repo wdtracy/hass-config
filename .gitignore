@@ -6,6 +6,8 @@
 !*.yaml
 !.gitignore
 !*.md
+!*.py
+!custom_components/
 
 # Ignore folders.
 .storage
